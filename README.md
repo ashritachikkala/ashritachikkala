@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashritachikkala
-- 👀 I’m interested in web development, AI, ML, IOT, PYTHON.
+- 👀 I’m interested in Web development, AI, ML, IOT, PYTHON.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on mini-projects related to web development.
 - 📫 How to reach me - mail me @ashritachikkala@gmail.com
